@@ -1,0 +1,6 @@
+D:\Code\NinjaDeveloperTest\NinjaDeveloperTest\bin\Debug\NinjaDeveloperTest.exe.config
+D:\Code\NinjaDeveloperTest\NinjaDeveloperTest\bin\Debug\NinjaDeveloperTest.exe
+D:\Code\NinjaDeveloperTest\NinjaDeveloperTest\bin\Debug\NinjaDeveloperTest.pdb
+D:\Code\NinjaDeveloperTest\NinjaDeveloperTest\obj\Debug\NinjaDeveloperTest.csprojAssemblyReference.cache
+D:\Code\NinjaDeveloperTest\NinjaDeveloperTest\obj\Debug\NinjaDeveloperTest.exe
+D:\Code\NinjaDeveloperTest\NinjaDeveloperTest\obj\Debug\NinjaDeveloperTest.pdb
